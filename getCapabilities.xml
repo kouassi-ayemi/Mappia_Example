@@ -1479,6 +1479,31 @@
 				<Title>localites</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:points_de_jonctions</Name>
+				<Title>points_de_jonctions</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:education</Name>
+				<Title>education</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:lieux_de_culte</Name>
+				<Title>lieux_de_culte</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:densite_de_feux_tricolores</Name>
+				<Title>densite_de_feux_tricolores</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:securite</Name>
+				<Title>securite</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
 		</VendorSpecificCapabilities>
 		<UserDefinedSymbolization SupportSLD="1" UserLayer="1" UserStyle="1" RemoteWFS="1"></UserDefinedSymbolization>
 		<Layer>
